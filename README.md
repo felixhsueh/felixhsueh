@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 
 👩‍💻 UX Design & Machine Learning Engineer
 
-🎓 MSc Human Computer Interaction with Placement @ uniofbath | BEng Computer Science @ NJUST
+🎓 MSc Human Computer Interaction with Placement @ uniofbath 
+🎓 BEng Computer Science @ NJUST
