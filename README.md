@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 💫 Hi! I'm Fleix!
 
-👩‍💻 Product Manager
+👩‍💻 AI Product Manager
 
 🎓 MSc Human Computer Interaction with Placement @ UniofBath </br>
 🎓 BEng Computer Science @ NJUST
