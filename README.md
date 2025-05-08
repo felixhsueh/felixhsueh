@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💫 Hi! I'm Fleix!
+💫 Hi! I'm Zekui Xue!
 
 👩‍💻 Product Manager
 
