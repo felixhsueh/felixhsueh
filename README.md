@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 💫 Hi! I'm Fleix!
 
-👩‍💻 Machine Learning Engineer & UX Design
+👩‍💻 UX Design & Machine Learning Engineer
 
 🎓 MSc Human Computer Interaction with Placement @ uniofbath
