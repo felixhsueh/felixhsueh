@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+💫 Hi! I'm Fleix!
+
+👩‍💻 Machine Learning Engineer
+
+🎓 MSc Human Computer Interaction with Placement @ uniofbath
