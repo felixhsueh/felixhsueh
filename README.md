@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 👩‍💻 Product Manager
 
 🎓 MSc Human Computer Interaction with Placement @ UniofBath </br>
-🎓 BEng Computer Science @ NJUST
+🎓 BEng Computer Science @ NJUST </br>
+🎓 Wall Street English
