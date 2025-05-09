@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 💫 Hi! I'm Zekui Xue!
 
-👩‍💻 UX Design
+👩‍💻 Product Design
 
 🎓 MSc Human Computer Interaction with Placement @ UniofBath </br>
 🎓 BEng Computer Science @ NJUST </br>
