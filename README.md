@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 👩‍💻 Product Design
 
 🎓 MSc Human Computer Interaction with Placement @ UniofBath </br>
-🎓 BEng Computer Science @ NJUST </br>
+🎓 BEng Computer Science and Technology @ NJUST </br>
 🎓 Wall Street English
