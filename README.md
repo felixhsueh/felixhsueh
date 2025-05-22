@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 💫 Hi! I'm Zekui Xue!
 
-👩‍💻 Product Design
+👩‍💻 AI Software Engineer
 
 🎓 MSc Human Computer Interaction with Placement @ UniofBath </br>
 🎓 BEng Computer Science and Technology @ NJUST </br>
-🎓 Wall Street English
