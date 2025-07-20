@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 💫 Hi! I'm Zekui Xue!
 
-👩‍💻 AI Software Engineer
+👩‍💻 Generative AI
 
 🎓 MSc Human Computer Interaction with Placement @ UniofBath </br>
 🎓 BEng Computer Science and Technology @ NJUST </br>
